@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscostat7&layout=compact&langs_count=7&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block"><br>
+  <h2> My stacks </h2><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
@@ -26,7 +27,6 @@
  
 <div>
   <a href="https://www.linkedin.com/in/dscostat7/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.diegosouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/souzad10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
