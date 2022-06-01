@@ -1,4 +1,5 @@
 ## Hello!! I am Diego Souza, Web Developer Full Stack..
+## Software Engineer
 <div align="center"> 
   <a href="https://github.com/dscostat7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dscostat7&show_icons=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"/>
