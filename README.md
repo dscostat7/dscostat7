@@ -28,7 +28,7 @@
 </div>
   
   ##
-  
+  skills
  
 <div>
   <a href="https://www.linkedin.com/in/dscostat7/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
