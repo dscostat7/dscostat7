@@ -1,4 +1,4 @@
-## Hi!! I am Diego Souza, Web Developer Full Stack..
+## Hi!! I'm Diego Souza, Web Developer Full Stack..
 ## Software Engineer  📚
 <div align="center">   
   <a href="https://github.com/dscostat7">
