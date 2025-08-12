@@ -1,5 +1,6 @@
 ## Hi!! I'm Diego Souza, Senior Software Engineer..
 ## Senior FullStack Software Engineer 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b4dd4e1bda04909a2ab8f99b4a5f0b7950d5e3ba87a30bc2331713c2c5a88d6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6d657274706f6c6174266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3b4dd4e1bda04909a2ab8f99b4a5f0b7950d5e3ba87a30bc2331713c2c5a88d6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6d657274706f6c6174266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="dscostat7" data-canonical-src="https://komarev.com/ghpvc/?username=dscostat7&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 <div align="center">   
   <a href="https://github.com/dscostat7">
   <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscostat7&layout=compact&langs_count=7&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117"/></a>
